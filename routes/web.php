@@ -1,6 +1,8 @@
 <?php
 
 use App\Http\Controllers\AuthController;
+use App\Http\Controllers\ForumController;
+use App\Http\Controllers\ProductController;
 use App\Http\Controllers\UserController;
 use Illuminate\Support\Facades\Route;
 
@@ -20,10 +22,16 @@ Route::get('/', function () {
 });
 
 #auth routes
-Route::get('login', [AuthController::class, 'loginUser'])->name('loginUser');
-Route::post('login', [AuthController::class, 'loginUserPost'])->name('loginUserPost');
-Route::get('logout', [AuthController::class, 'logout'])->name('logout');
+Route::get('/login', [AuthController::class, 'loginUser'])->name('loginUser');
+Route::post('/login', [AuthController::class, 'loginUserPost'])->name('loginUserPost');
+Route::get('/logout', [AuthController::class, 'logout'])->name('logout');
 
 #user routes
-Route::get('register', [UserController::class, 'index'])->name('registerUser');
-Route::post('register', [UserController::class, 'register'])->name('registerUserPost');
+Route::get('/register', [UserController::class, 'index'])->name('registerUser');
+Route::post('/register', [UserController::class, 'register'])->name('registerUserPost');
+
+#product routes
+Route::get('/detail', [ProductController::class, 'detail'])->name('detailProduct');
+
+#forum routes
+Route::get('/forum', [ForumController::class, 'index']);
