@@ -1,0 +1,15 @@
+1.	Nama : Crankset 3 Speed Sepeda
+	Harga : 2.200.000
+	Deskripsi : Part yang penting untuk pengendara sepeda yang serius, meteran daya DURA-ACE FC-R9200-P memberikan pengukuran daya dua sisi yang andal, tahan air. Dengan baterai isi ulang dan konektivitas Bluetooth®LE dan ANT+, 
+			FC-R9200-P adalah mitra pelatihan yang mudah digunakan. Pengukur daya DURA-ACE FC-R9200-P menghadirkan semua yang diinginkan oleh pengendara sepeda berbasis data. Desainnya yang tahan air dan terintegrasi menghadirkan keandalan di segala cuaca sekaligus memberikan informasi akurat termasuk keseimbangan kiri/kanan. 
+			Baterai Li-ion yang dapat diisi ulang mudah digunakan dan konektivitas Bluetooth®LE dan ANT+ memastikan pengaturan yang mudah.
+
+2.	Nama : Shifter 9 Speed Sepeda
+	Harga : 300.000
+	Deskripsi : Tuas persneling SHIMANO ALIVIO SL-M3100-R memberikan pemindahan gigi belakang yang responsif untuk drivetrain sepeda gunung 9-percepatan. 
+			Tuas RAPIDFIRE PLUS cocok untuk perpindahan cepat, memberikan pengendara kemampuan untuk menurunkan tiga gigi dalam satu langkah.
+
+3.	Nama : Front Deraileur Sepeda
+	Harga : 175.000
+	Deskripsi : Pemindah gigi depan 3x9 kecepatan SHIMANO ALIVIO FD-M3100 menggunakan SIDE SWING baru dari SHIMANO untuk perutean kabel yang disempurnakan, tindakan ringan, dan pengoperasian yang mulus. 
+			Desain baru memberikan jangkauan ekstra luas untuk set engkol tiga cincin depan dan meningkatkan jarak bebas untuk roda besar dan penahan rantai pendek.

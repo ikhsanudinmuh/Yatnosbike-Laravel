@@ -17,11 +17,12 @@ return new class extends Migration
             $table->increments('id');
             $table->string('name');
             $table->string('email')->unique();
+            $table->enum('role', ['user', 'admin', 'seller']);
             $table->timestamp('email_verified_at')->nullable();
             $table->string('password');
             $table->text('address')->nullable();
-            $table->string('no_telp')->nullable();
-            $table->string('no_rekening')->nullable();
+            $table->string('phone_number')->nullable();
+            $table->string('bank_account_number')->nullable();
             $table->rememberToken();
             $table->timestamps();
         });
